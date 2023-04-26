@@ -1,4 +1,5 @@
 # Paper-Search-on-Baidu-Academic-
+根据关键词等条件，搜索、统计、并分析学术论文的等级，对应期刊的审稿周期，影响因子等信息。
 Search for papers on Baidu Academic based on keywords and summarise the information for analysis
 
 
