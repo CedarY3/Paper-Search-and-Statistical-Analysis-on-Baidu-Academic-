@@ -13,3 +13,10 @@ Search for papers on Baidu Academic based on keywords and summarise the informat
 2，新建网页输入：https://chromedriver.chromium.org/downloads 选择适配的driver下载
 
 3，将下载好的driver解压，并在本软件gui界面的driver路径中填写driver所在的文件夹的路径
+
+## UI和效果展示
+UI：
+![paperSearchUI.jpg](paperSearchUI.jpg)
+
+Result：
+![searchResult.jpg](searchResult.jpg)
